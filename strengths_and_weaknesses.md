@@ -1,4 +1,6 @@
 # Strengths
+* Version Control
+
 
 # Weaknesses
 
