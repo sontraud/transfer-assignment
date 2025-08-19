@@ -5,3 +5,4 @@
 
 # Weaknesses
 * Steep Learning Course
+* Merge Conflicts can occur
